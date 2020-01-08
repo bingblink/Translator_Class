@@ -1,0 +1,2 @@
+Module=This content is taken from %s%s_Module.txt%s. You can write anything here.
+Template intro=This content can be used in templates with %sPerchSystem::set_var%s

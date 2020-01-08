@@ -1,0 +1,4 @@
+Module=Ce contenu est extrait de %s%s_Module.txt%s. Vous pouvez écrire n'importe quoi ici.
+This can be translated or not at all.=Cela peut être traduit ou pas du tout.
+Template intro=Ce contenu peut être utilisé dans des modèles avec %sPerchSystem::set_var%s
+Template label=Étiquette de modèle

@@ -1,0 +1,10 @@
+Foo=%sfoo Français%s
+All=Tous
+Hello world=Bonjour le monde
+Intro=Ce contenu provient de %s%s_Global.txt%s et si la clé de recherche n'est pas trouvée, il imprimera simplement la clé de recherche. Maintenant, allez-y et changez le nom de la variable dans %sindex.php%s
+Flexible intro=Comment je gère les traductions est d'utiliser:
+Flexible 1=%sTranslator_Class%s pour les petits morceaux de texte sur les pages avec beaucoup de codage.
+Flexible 2=%s_text_block_lang.html%s Perch templates pour de gros morceaux de contenu qui peuvent parfois changer.
+Flexible 3=%srp_translationhelper%s pour le texte qui ne changera probablement pas avec le temps.
+Flexible 4=Et enfin des modèles Perch intégrés pour %sCatégories%s et %sPages attributes%s.
+Flexible closing=Vous êtes libre de l'utiliser comme bon vous semble!

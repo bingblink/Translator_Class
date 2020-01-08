@@ -1,0 +1,8 @@
+Foo=%sfoo English%s
+Intro=This content is taken from %s%s_Global.txt%s and if the search key is not found, it will simply print the search key. Now go ahead and change the variable name in %sindex.php%s
+Flexible intro=How I manage translations is to use:
+Flexible 1=%sTranslator_Class%s for small pieces of text on pages with lots of coding.
+Flexible 2=%s_text_block_lang.html%s Perch template for large chunks of content that may change sometimes.
+Flexible 3=%srp_translationhelper%s for text that are not likely to change over time.
+Flexible 4=And lastly in-built Perch templates for %sCategories%s and %sPages attributes%.
+Flexible closing=You are free to use this however you like!
